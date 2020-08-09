@@ -1,0 +1,11 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+	float a,b;
+	cout << "Enter any 2 numbers:"<<endl;
+	cin>> a;
+	cin>> b;
+	cout << "The product of entered numbers is:"<<a*b<<endl;
+	return(0);
+}
